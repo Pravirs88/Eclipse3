@@ -4,7 +4,7 @@ public class AcessGlobalToLocal {
  int a=50;//global variable
 int b =70;
 public void lesson() {
-	int a=60;//local variable
+	int a=70;//local variable
 	int b=80;
 	
 	System.out.println(a+this.b+b);}//variable call using this keyword

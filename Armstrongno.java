@@ -10,7 +10,7 @@ public class Armstrongno {
 		System.out.println("enter the no to check whether it is armstrong no or not ");
 		int n= dc.nextInt();//n=153
 		int t;
-		int r=n;            //r=153
+		int r=n;            //r=150
 		while(n>0) {
 			
 			t=n%10;       //t=3,t=15%10=5 1%10=1  t=n%10
